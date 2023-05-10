@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/electronicarts/helmci/compare/v0.2.1...v0.3.0) (2023-05-10)
+
+
+### Features
+
+* Add basic helm-secrets support ([a2e687f](https://github.com/electronicarts/helmci/commit/a2e687f170488ee045f504d4c7345736988a7768))
+
+
+### Bug Fixes
+
+* Use OsString type for Commands ([a34f9c4](https://github.com/electronicarts/helmci/commit/a34f9c48e95fa4cc766bfd01575632491038d66c))
+
 ## [0.2.1](https://github.com/electronicarts/helmci/compare/v0.2.0...v0.2.1) (2023-02-02)
 
 
